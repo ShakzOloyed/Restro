@@ -1,0 +1,18 @@
+/* Reset CSS */
+* {
+  box-sizing: border-box
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+main, header {
+  padding: 1rem;
+}
+img {
+  /* default all images to 100% */
+  width: 100%;
+}
+
+/* header */
